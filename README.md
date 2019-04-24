@@ -1,5 +1,5 @@
 # Lab3 - CI/CD with Sagemaker
-NEW FEATURE AP-123
+NEW FEATURE AP-124
 In the third lab you are going to create a full CI/CD pipeline for your machine learning model so you can develop, test and deploy machine learning models in an efficient, safe and repeatable manner.
 
 The AWS infrastructure you will be deploying will be modelled using the principle of Infrastructure as Code. Codifying your infrastructure allows you to treat your infrastructure as just code. You can author it with any code editor, check it into a version control system, and review the files with team members before deploying into production.
